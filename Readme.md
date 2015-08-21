@@ -14,12 +14,9 @@ A math component built with Deku. Inspired by [react-math](https://github.com/ce
 ## Usage
 
 ```js
-import Math from 'stevenmiller888/deku-math';
-import element from 'dekujs/virtual-element';
-import { deku, render } from 'dekujs/deku';
-
-let app = deku(<Math>sum_(i=1)^(+∞) i^3=((n(n+1))/2)^2</Math>);
-render(app, document.body);
+<Math>
+  sum_(i=1)^(+∞) i^3=((n(n+1))/2)^2
+</Math>
 ```
 
 ## License
