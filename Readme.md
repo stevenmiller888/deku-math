@@ -5,7 +5,7 @@
 
 A math component built with Deku. Inspired by [react-math](https://github.com/cezary/react-math)
 
-![](https://cldup.com/b35s3wRtSw.png)
+<img src="https://cldup.com/b35s3wRtSw.png" width="300" height="200">
 
 ## Installation
 
